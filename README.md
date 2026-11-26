@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C
+- **Languages:** Python, C 
 - **Learning:** AI, Machine Learning, CUDA
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
